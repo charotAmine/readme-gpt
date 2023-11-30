@@ -16,7 +16,7 @@ You also have the possibility to create new indexes in your Azure Search :
 ![Plugin](index.png)
 
 you can also choose one index to query : 
-![Plugin](chooseIndex.png)
+![Plugin](chooseindex.png)
 
 How it works behind
 ![Plugin](CreateIndex.png)
